@@ -31,3 +31,6 @@ state does not change as a result of switching the inflow.
 %parameters for problem simulation
 r1 = 1, r2 = 1.5, v1 = 1, v2 = 1, w = 1.8, x1(0) = 2, x2(0) = 2.5 and q(0) = q1
 for 15 seconds.
+
+%%DOWNLOAD HYBRID EQUATION TOOLBOX
+link: https://www.mathworks.com/matlabcentral/fileexchange/41372-hybrid-equations-toolbox-v2-04?s_tid=mwa_osa_a

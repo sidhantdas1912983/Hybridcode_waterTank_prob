@@ -27,3 +27,7 @@ and vice versa.
 inflow to the other tank as soon as the water there reaches the low level mark.
 • Reset relation equal to the identity map for x, R(q1,q2,x) = R(q2,q1,x) = {x}, since the continuous
 state does not change as a result of switching the inflow.
+
+%parameters for problem simulation
+r1 = 1, r2 = 1.5, v1 = 1, v2 = 1, w = 1.8, x1(0) = 2, x2(0) = 2.5 and q(0) = q1
+for 15 seconds.
